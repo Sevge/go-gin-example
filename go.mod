@@ -1,4 +1,4 @@
-module github.com/sevge/go-gin
+module github.com/sevge/go-gin-example
 
 go 1.15
 
